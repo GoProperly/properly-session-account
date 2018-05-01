@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/GoProperly/properly-session-account/issues"
   },
-  "homepage": "https://github.com/GoProperly/properly-session-account#readme"
+  "homepage": "https://github.com/GoProperly/properly-session-account#readme",
+  "dependencies": {
+    "amazon-cognito-auth-js": "^1.2.0",
+    "aws-sdk": "^2.230.1"
+  }
 }
