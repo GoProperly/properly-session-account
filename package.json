@@ -18,6 +18,7 @@
   "homepage": "https://github.com/GoProperly/properly-session-account#readme",
   "dependencies": {
     "amazon-cognito-auth-js": "^1.2.0",
-    "aws-sdk": "^2.230.1"
+    "aws-sdk": "^2.230.1",
+    "url-parse": "^1.4.0"
   }
 }
