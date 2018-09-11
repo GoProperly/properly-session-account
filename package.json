@@ -22,6 +22,6 @@
     "properly-util-js": "git+https://github.com/GoProperly/properly-util-js.git",
     "sprintf-js": "^1.1.1",
     "superagent": "^3.8.3",
-    "url-parse": "^1.4.1"
+    "url-parse": "^1.4.3"
   }
 }
