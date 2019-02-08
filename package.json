@@ -17,11 +17,11 @@
   },
   "homepage": "https://github.com/GoProperly/properly-session-account#readme",
   "dependencies": {
-    "amazon-cognito-auth-js": "^1.2.3",
-    "aws-sdk": "^2.259.1",
+    "amazon-cognito-auth-js": "^1.2.4",
+    "aws-sdk": "^2.399.0",
     "properly-util-js": "git+https://github.com/GoProperly/properly-util-js.git",
-    "sprintf-js": "^1.1.1",
+    "sprintf-js": "^1.1.2",
     "superagent": "^3.8.3",
-    "url-parse": "^1.4.3"
+    "url-parse": "^1.4.4"
   }
 }
