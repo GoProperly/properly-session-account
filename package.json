@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/GoProperly/properly-session-account#readme",
   "dependencies": {
+    "js-cookie": "^2.2.1",
     "properly-util-js": "git+https://github.com/GoProperly/properly-util-js.git",
     "sprintf-js": "^1.1.2",
     "superagent": "^3.8.3",
